@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer (Machine Learning) Intern
     company: Facebook
     company_url: https://www.facebook.com/
-<!--     company_logo: org-gc -->
+    company_logo: org-gc
     location: Menlo Park, CA
     date_start: '2020-05-18'
     date_end: '2020-08-07'
@@ -39,7 +39,7 @@ experience:
   - title: Applied Scientist Intern
     company: Amazon
     company_url: https://www.amazon.com/
-<!--     company_logo: org-x -->
+    company_logo: org-x
     location: Seattle, WA
     date_start: '2019-05-28'
     date_end: '2019-08-23'
@@ -48,7 +48,7 @@ experience:
   - title: Applied Scientist Intern
     company: A9.com
     company_url: https://www.A9.com/
-<!--     company_logo: org-x -->
+    company_logo: org-x
     location: Palo Alto, CA
     date_start: '2018-05-29'
     date_end: '2018-08-17'
