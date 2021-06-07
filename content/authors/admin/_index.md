@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-This site is still under construction. 
+(This site is still under construction.)
 
 I am a fifth-year PhD candidate in [The Department of Statistics and Data Science](https://stat.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I'm very fortunate to be supervised by [Giles Hooker](http://faculty.bscb.cornell.edu/~hooker/) and to have [Madeleine Udell](https://people.orie.cornell.edu/mru8/) and [Kilian Weinburger](https://www.cs.cornell.edu/~kilian/) on my committee. Before my PhD, I got my Bachelor's degree from [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
 
