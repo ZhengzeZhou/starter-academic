@@ -39,20 +39,20 @@ experience:
   - title: Applied Scientist Intern
     company: Amazon
     company_url: https://www.amazon.com/
-    company_logo: org-x
+    company_logo: 
     location: Seattle, WA
     date_start: '2019-05-28'
     date_end: '2019-08-23'
-<!--     description: Taught electronic engineering and researched semiconductor physics. -->
+    description: 
 
   - title: Applied Scientist Intern
     company: A9.com
     company_url: https://www.A9.com/
-    company_logo: org-x
+    company_logo: 
     location: Palo Alto, CA
     date_start: '2018-05-29'
     date_end: '2018-08-17'
-<!--     description: Taught electronic engineering and researched semiconductor physics. -->
+    description: 
 
 design:
   columns: '2'
