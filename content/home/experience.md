@@ -40,7 +40,7 @@ experience:
     description: 
 
   - title: Applied Scientist Intern
-    company: A9.com
+    company: A9.com (a former subsidiary of Amazon)
     company_url: https://www.A9.com/
     company_logo: 
     location: Palo Alto, CA
