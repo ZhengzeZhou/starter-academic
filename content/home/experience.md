@@ -29,12 +29,6 @@ experience:
     location: Menlo Park, CA
     date_start: '2020-05-18'
     date_end: '2020-08-07'
-<!--     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying -->
         
   - title: Applied Scientist Intern
     company: Amazon
