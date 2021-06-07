@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Software Engineer (Machine Learning) Intern
+    company: Facebook
+    company_url: https://www.facebook.com/
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
+    location: Menlo Park, CA
+    date_start: '2020-05-18'
+    date_end: '2020-08-07'
+<!--     description: |2-
         Responsibilities include:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Deploying -->
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Applied Scientist Intern
+    company: Amazon
+    company_url: https://www.amazon.com/
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Seattle, WA
+    date_start: '2019-05-28'
+    date_end: '2019-08-23'
+<!--     description: Taught electronic engineering and researched semiconductor physics. -->
+
+  - title: Applied Scientist Intern
+    company: A9.com
+    company_url: https://www.A9.com/
+    company_logo: org-x
+    location: Palo Alto, CA
+    date_start: '2018-05-29'
+    date_end: '2018-08-17'
+<!--     description: Taught electronic engineering and researched semiconductor physics. -->
 
 design:
   columns: '2'
