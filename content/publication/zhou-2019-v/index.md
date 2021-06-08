@@ -15,6 +15,8 @@ lastmod: 2021-06-07T23:34:17-04:00
 featured: false
 draft: false
 
+url_pdf: 'https://arxiv.org/abs/1912.01089'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
