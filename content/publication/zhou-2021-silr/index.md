@@ -33,20 +33,8 @@ projects: []
 publishDate: '2021-06-08T03:34:17.039554Z'
 publication_types:
 - '2'
-abstract: 'Suppose N experimental participants each undergo t binary trials, and you want to show
-that at least some of the participants have higher success rates than would be expected if the
-true success rate for all participants on all trials were the same known value pnull. Under broad
-circumstances, a new test called SILR has substantially higher power than six other tests that
-might be used for this purpose. In one example, SILR yielded a significance level of 0.0032 while
-the other six tests all yielded values above 0.05. In one power analysis, SILR’s power exceeded
-that of the standard binomial test, applied to the results of all trials for all participants, even when
-the sample size for SILR was less than 30% that for the binomial.
+abstract: 'Suppose N experimental participants each undergo t binary trials, and you want to show that at least some of the participants have higher success rates than would be expected if the true success rate for all participants on all trials were the same known value pnull. Under broad circumstances, a new test called SILR has substantially higher power than six other tests that might be used for this purpose. In one example, SILR yielded a significance level of 0.0032 while the other six tests all yielded values above 0.05. In one power analysis, SILR’s power exceeded that of the standard binomial test, applied to the results of all trials for all participants, even when the sample size for SILR was less than 30% that for the binomial.
 
-We provide a free R program for SILR. It can also find confidence limits on the number of
-experimental participants whose true hit rate exceeds the null value, and on the highest and
-lowest true hit rates of any participants. SILR does not show conclusively that any particular
-participant’s true hit rate differs significantly from the null rate. If such tests are desired, that can
-be done with Bonferroni-corrected binomial tests on individual participants. But SILR often has
-much higher power than these tests.'
+We provide a free R program for SILR. It can also find confidence limits on the number of experimental participants whose true hit rate exceeds the null value, and on the highest and lowest true hit rates of any participants. SILR does not show conclusively that any particular participant’s true hit rate differs significantly from the null rate. If such tests are desired, that can be done with Bonferroni-corrected binomial tests on individual participants. But SILR often has much higher power than these tests.'
 publication: '*PsyArXiv*'
 ---
