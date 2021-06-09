@@ -41,6 +41,7 @@ might be used for this purpose. In one example, SILR yielded a significance leve
 the other six tests all yielded values above 0.05. In one power analysis, SILR’s power exceeded
 that of the standard binomial test, applied to the results of all trials for all participants, even when
 the sample size for SILR was less than 30% that for the binomial.
+
 We provide a free R program for SILR. It can also find confidence limits on the number of
 experimental participants whose true hit rate exceeds the null value, and on the highest and
 lowest true hit rates of any participants. SILR does not show conclusively that any particular
