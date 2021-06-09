@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: $ V $-statistics and Variance Estimation
+title: V-statistics and Variance Estimation
 subtitle: ''
 summary: ''
 authors:
