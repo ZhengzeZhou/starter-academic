@@ -33,6 +33,6 @@ projects: []
 publishDate: '2021-06-08T03:34:16.755158Z'
 publication_types:
 - '2'
-abstract: 'We propose a modification that corrects for split-improvement variable importance measures in Random Forests and other tree-based methods. These methods have been shown to be biased towards increasing the importance of features with more potential splits. We show that by appropriately incorporating split-improvement as measured on out of sample data, this bias can be corrected yielding better summaries and screening tools.'
+abstract: ''
 publication: '*ACM Transactions on Knowledge Discovery from Data (TKDD)*'
 ---
