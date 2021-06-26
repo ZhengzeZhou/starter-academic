@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: S-LIME: Stabilized-LIME for Model Explanation
+title: 'S-LIME: Stabilized-LIME for Model Explanation'
 subtitle: ''
 summary: ''
 authors:
