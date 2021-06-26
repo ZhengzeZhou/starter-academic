@@ -36,7 +36,7 @@ publishDate: '2021-06-26T02:59:28.115114Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '* In Proceedings of the 27th ACM SIGKDD Conference
+publication: '*In Proceedings of the 27th ACM SIGKDD Conference
 on Knowledge Discovery and Data Mining (KDD ’21), August 14–18, 2021,
 Virtual Event, Singapore*'
 ---
